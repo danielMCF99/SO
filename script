@@ -1,0 +1,5 @@
+-e 'ls -la'
+-e 'ls -la | wc -l'
+-m 20
+ajuda 
+historico 
